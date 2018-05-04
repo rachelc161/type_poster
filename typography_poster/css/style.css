@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+}
+
+
+.here h1{
+    
+    color: white;
+    text-align: right;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 10em;
+    margin-top: 1em;
+    margin-right: 2em;
+    
+}
+
+.here h2{
+    
+    color: white;
+    text-align: right;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 10em;
+    margin-right: 2em;
+    margin-top: -0.3em;
+}
+
+.here h3{
+    
+    color: dimgrey;
+    text-align: right;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 10em;
+    margin-right: 2em;
+    margin-top: -0.3em;
+}
+
+.here h4{
+    
+    color: dimgrey;
+    text-align: right;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 10em;
+    margin-right: 1.5em;
+    margin-top: -0.3em;
+    margin-bottom: 1em;
+}
+
+
+
+
+.colour h5{
+    display: inline-block;
+    color: dimgrey;
+    text-align: right;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 10em;
+    margin-right: 0em;
+    margin-top: -0.3em;
+    margin-left: 4.4em;
+}
+
+.colour h6{
+    display: inline-block;
+    color: white;
+    text-align: right;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 10em;
+    margin-right: 0em;
+    margin-top: -0.3em;
+    
+}
+
+
+
+
+
+
+
+
+
